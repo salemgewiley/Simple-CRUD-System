@@ -12,4 +12,3 @@
   * Search for products by name and category
   * Permanently save products to local storage
   * Able to calculate product Taxes and Ads and Discount and find the total price
-  * The data will not be added unless it is correct
